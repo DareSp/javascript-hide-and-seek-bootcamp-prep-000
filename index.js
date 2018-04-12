@@ -29,5 +29,8 @@ function deepestChild(){
   }
 }
 
-
+function monthlyCost(premium, grossPay){
+  console.log(`Your gross pay per pay period is ${grossPay}.`)
+  console.log(`Your premium is $`)
+}
 
